@@ -6,7 +6,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/undraw_Container_ship_ok1c.svg
-    background_image_opacity: 65
+    background_image_opacity: 50
     content: >
       # **Massam real trading done right for you**
 
