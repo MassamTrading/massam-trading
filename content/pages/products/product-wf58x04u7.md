@@ -12,7 +12,6 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-default_original_image: images/plant1.jpg
 default_thumbnail_image: images/plant4-lg.jpg
 ---
 ## Lorem ipsum
