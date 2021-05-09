@@ -2,9 +2,6 @@
 layout: product
 id: '3'
 title: Slow Ones
-description: >-
-  This is a very slow service, get it and its on you! Not my problem at all, I
-  really don't care if you get it or not
 default_thumbnail_image: images/plant3.jpg
 default_original_image: images/plant3-lg.jpg
 featured: true
