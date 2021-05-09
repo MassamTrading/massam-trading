@@ -31,7 +31,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: 'Massam Trading, the way you like it'
-    subtitle: from $149.99
+    subtitle: Right at your foot steps kinda!
     image: images/promo.jpg
     background_image: /images/leaf.svg
 seo:
