@@ -2,7 +2,7 @@
 layout: product
 id: '3'
 title: Slow Ones
-default_thumbnail_image: images/plant1-lg.jpg
+default_thumbnail_image: images/undraw_Personal_email_re_4lx7.png
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 0
