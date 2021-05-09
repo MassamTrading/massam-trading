@@ -19,7 +19,7 @@ sections:
         arrow: true
         style: primary
   - type: featured_products_section
-    section_id: best_sellers_section
+    section_id: services_section
     title: Services
     icon: true
     light_title: true
