@@ -39,7 +39,7 @@ sections:
     testimonials:
       - author:
           name: 'Botch #1'
-          location: 'Colorado, USA'
+          location: 'Vancouver, ca'
         text: >-
           I didn't know the Snipcart guys were into herbs as well! How beautiful
           is that Planty theme. I'm going to launch a killer JAMstack e-commerce
