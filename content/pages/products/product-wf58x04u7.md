@@ -3,7 +3,7 @@ id: lorem-ipsum
 title: lorem-ipsum
 description: >-
   This service is still under construction. We are thinking how we can make more
-  money from you.
+  money from you. Lets balance this out here
 price: lorem-ipsum
 order: 0
 featured: false
