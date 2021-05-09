@@ -13,9 +13,6 @@ sections:
   - type: faq_section
     section_id: faq_section
     questions:
-      - question: How long does shipping take?
-        answer: |
-          As long as we want
       - question: How do refunds and returns work?
         answer: |
           We don't fuck off
