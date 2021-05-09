@@ -24,12 +24,11 @@ sections:
           overwatch. Sorry!
         image: images/nan_talk.jpg
       - title: We think bitcoin should be a world currency
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+        description: >
+          We are big players in the crypto space with a big ass firm managing
+          billions of dollars in assets so we don't care about your business at
+          all, we will try and ship you containers full of food but if they are
+          empty it is because we ate them duh
         image: images/team.jpg
   - type: promotion_section
     section_id: promotion_section
