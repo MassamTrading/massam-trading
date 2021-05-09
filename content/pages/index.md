@@ -27,6 +27,7 @@ sections:
       - content/pages/products/plant3.md
       - content/pages/products/plant5.md
       - content/pages/products/plant7.md
+      - content/pages/products/product-wf58x04u7.md
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
