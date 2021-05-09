@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Super Fast One
 description: >-
   Best service we use blockchain and shit do make this work. All I am saying is
   that it will be there really quick!
