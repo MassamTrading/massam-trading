@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Holy moly
 description: This is cool
 price: lorem-ipsum
 order: 0
