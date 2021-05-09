@@ -5,7 +5,7 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: images/method-draw-image.svg
+    background_image: images/ultra-robin.svg
     headline: Behold our FAQ
     subtitle: >
       All right, friends. Let’s do this. We cover the most asked questions duh?!
