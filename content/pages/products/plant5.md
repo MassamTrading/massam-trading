@@ -9,7 +9,7 @@ description: >-
 default_thumbnail_image: images/undraw_Environmental_study_re_q4q8.png
 default_original_image: images/plant5-lg.jpg
 featured: true
-order: 5
+order: 0
 category: content/pages/category/bigplants.md
 seo:
   title: Vestibulum eget
