@@ -47,14 +47,14 @@ sections:
     image: images/smart-mustard.png
     background_image: images/leaf.svg
 seo:
-  title: Massam
+  title: Massam Trading
   description: The massam global trading website
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Planty Theme
+      value: Massam Trading
       keyName: property
     - name: 'og:description'
       value: The preview of the Planty theme
