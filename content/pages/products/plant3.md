@@ -35,8 +35,8 @@ seo:
       relativeUrl: true
 price: 'The slow one is actually slow, this is not our problem!'
 description: >-
-  Best service we use blockchain and shit do make this work, I really don't
-  anything else about it. All I am saying is that it will be there really quick!
+  This is a very slow service, get it and its on you! Not my problem at all, I
+  really don't care if you get it or not
 ---
 
 # Curabitur eu tempor
