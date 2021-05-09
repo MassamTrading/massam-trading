@@ -38,7 +38,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: John Dope
+          name: 'Botch #1'
           location: 'Colorado, USA'
         text: >-
           I didn't know the Snipcart guys were into herbs as well! How beautiful
