@@ -14,17 +14,8 @@ sections:
     section_id: faq_section
     questions:
       - question: How long does shipping take?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: |
+          As long as we want
       - question: How do refunds and returns work?
         answer: |
           We don't fuck off
