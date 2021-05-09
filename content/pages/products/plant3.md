@@ -34,6 +34,9 @@ seo:
       value: images/plant3-lg.jpg
       relativeUrl: true
 price: 'The slow one is actually slow, this is not our problem!'
+description: >-
+  Best service we use blockchain and shit do make this work, I really don't
+  anything else about it. All I am saying is that it will be there really quick!
 ---
 
 # Curabitur eu tempor
