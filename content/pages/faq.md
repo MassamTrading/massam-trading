@@ -9,12 +9,7 @@ sections:
     headline: Behold our FAQ
     subtitle: >
       All right, friends. Let’s do this. We cover the most asked questions duh?!
-      Let just do this, you can call us if you have more questions..
-
-
-
-
-      \<br>
+      Let just do this, you can call us if you have more questions.
   - type: faq_section
     section_id: faq_section
     questions:
