@@ -6,7 +6,7 @@ title: Kinda fast one
 description: >-
   Best service we use blockchain and shit do make this work, I really don't
   anything else about it. All I am saying is that it will be there really quick!
-default_thumbnail_image: images/plant5.jpg
+default_thumbnail_image: images/undraw_Dev_focus_re_6iwt.svg
 default_original_image: images/plant5-lg.jpg
 featured: true
 order: 5
