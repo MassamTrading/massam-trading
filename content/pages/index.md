@@ -52,7 +52,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: 'Massam Trading, the way you like it'
-    subtitle: Right at your foot steps
+    subtitle: 'Right at your foot steps, kinda'
     image: images/promo.jpg
     background_image: images/leaf.svg
     cta:
