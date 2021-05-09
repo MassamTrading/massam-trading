@@ -2,7 +2,7 @@
     "title": "Massam",
     "path_prefix": "/",
     "logo": "images/logo.svg",
-    "logo_dark": "",
+    "logo_dark": "images/logo_dark.svg",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary_opacity": 60,
     "bg_image_secondary": "/images/leaf-light-grey.svg",
