@@ -5,7 +5,7 @@ page_css_class: gray-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: /images/leaf-light-grey.svg
+    background_image: images/undraw_Container_ship_ok1c.svg
     headline: We are Massam
     subtitle: >
       Well, not really. We’re crypto billionaires and we don't care about
