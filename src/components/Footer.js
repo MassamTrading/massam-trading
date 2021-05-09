@@ -13,7 +13,7 @@ export default class Footer extends React.Component {
             <footer className="footer">
                 <div className="footer__container">
                     <Link className="footer__logo" href={withPrefix('/')}>
-                        <Picture {...this.props} image={_.get(site, 'data.config.logo_light', null)} cssClass={'footer__logo-image'} alt={'Site logo'} />
+                        <Picture {...this.props} image={_.get(site, 'data.config.favicon', null)} cssClass={'footer__logo-image'} alt={'Site logo'} />
                     </Link>
                     <ul className="footer__nav">
                         {_.map(menu, (item, item_idx) => (
