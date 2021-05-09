@@ -66,9 +66,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Planty Theme
+      value: Massam Trading
     - name: 'twitter:description'
-      value: The preview of the Planty theme
+      value: The preview of the Massam Trading
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
