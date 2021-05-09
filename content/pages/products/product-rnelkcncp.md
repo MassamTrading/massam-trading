@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: A lorem service you know
 description: >-
   This service is still under construction. We are thinking how we can make more
   money from you. Lets balance this out here
