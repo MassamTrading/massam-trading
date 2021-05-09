@@ -22,5 +22,6 @@
             "style": "link"
         }
     ],
-    "domain": "https://rainy-daffodil-84af6.netlify.app"
+    "domain": "https://rainy-daffodil-84af6.netlify.app",
+    "favicon": "images/gobbler-icon copy.svg"
 }
