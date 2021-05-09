@@ -20,9 +20,9 @@ export default class Header extends React.Component {
                         <div className="nav__logo"{...((is_logo_light && _.get(site, 'data.config.logo', null)) ? ({"data-original": withPrefix(_.get(site, 'data.config.logo_light', null))}) : null)}{...(_.get(site, 'data.config.logo_dark', null) ? ({"data-dark": withPrefix(_.get(site, 'data.config.logo_dark', null))}) : null)}>
                             <Link href={withPrefix('/')}>
                                 {is_logo_light ? (
-                                    <Picture {...this.props} image={_.get(site, 'data.config.logo_light', null)} cssClass={'nav__logo-image'} alt={'Site logo'} />
+                                    <Picture {...this.props} image={_.get(site, 'data.config.logo', null)} cssClass={'nav__logo-image'} alt={'Site logo'} />
                                 ) : 
-                                    <Picture {...this.props} image={_.get(site, 'data.config.logo_dark', null)} cssClass={'nav__logo-image'} alt={'Site logo'} />
+                                    <Picture {...this.props} image={_.get(site, 'data.config.logo', null)} cssClass={'nav__logo-image'} alt={'Site logo'} />
                                 }
                             </Link>
                         </div>
