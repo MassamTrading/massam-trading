@@ -1,7 +1,9 @@
 ---
 id: lorem-ipsum
 title: lorem-ipsum
-description: lorem-ipsum
+description: >-
+  This ones really depends on our mood that day we can get to your or not, we
+  are busy after all!
 price: lorem-ipsum
 order: 0
 featured: false
