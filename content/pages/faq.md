@@ -13,16 +13,6 @@ sections:
   - type: faq_section
     section_id: faq_section
     questions:
-      - question: How do refunds and returns work?
-        answer: |
-          We don't fuck off
-      - question: How do you handle sensitive customer information?
-        answer: |+
-          Something here...
-
-      - question: Who is Botch?
-        answer: |
-          Legends in Overwatch, modern warfare, and every game basically
       - question: lorem-ipsum
         answer: >-
           ## Lorem ipsum
@@ -35,6 +25,16 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
+      - question: How do refunds and returns work?
+        answer: |
+          We don't fuck off
+      - question: How do you handle sensitive customer information?
+        answer: |+
+          Something here...
+
+      - question: Who is Botch?
+        answer: |
+          Legends in Overwatch, modern warfare, and every game basically
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
