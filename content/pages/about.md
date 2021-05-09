@@ -20,7 +20,7 @@ sections:
           This is facts we love playing overwatch and we don't have time to
           actually work, so if anything is delayed it is because we are playing
           overwatch. Sorry!
-        image: images/nan_talk.jpg
+        image: images/maroon-oak.png
       - title: We think bitcoin should be a world currency
         description: >
           We are big players in the crypto space with a big ass firm managing
