@@ -21,7 +21,6 @@ sections:
     light_title: true
     featured_products:
       - content/pages/products/plant7.md
-      - content/pages/products/product-wf58x04u7.md
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
