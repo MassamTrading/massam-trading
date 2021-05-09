@@ -27,7 +27,7 @@ sections:
         answer: |
           Legends in Overwatch, modern warfare, and every game basically
   - type: contact_section
-    image: images/promo.jpg
+    image: images/undraw_navigator_a479.png
     section_id: contact_section
     address: '7438 Many Ds, Vancouver, BC, Canada, VGA 1Dk'
     phone: +1-778-555-0112
