@@ -34,11 +34,6 @@ sections:
     subtitle: from $149.99
     image: images/promo.jpg
     background_image: /images/leaf.svg
-    cta:
-      title: Discover
-      url: /store
-      style: primary
-      arrow: true
 seo:
   title: About
   description: This is the about page
