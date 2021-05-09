@@ -2,7 +2,7 @@
 layout: product
 id: '3'
 title: Slow Ones
-default_thumbnail_image: images/Calendar_SVG.svg
+default_thumbnail_image: images/plant1-lg.jpg
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 0
