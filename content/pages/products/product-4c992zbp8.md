@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Holy moly
+title: Some service
 description: I don't what this service is
 price: lorem-ipsum
 order: 0
