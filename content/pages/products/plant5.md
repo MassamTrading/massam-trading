@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '5'
-price: '220.00'
+price: 'This is our top tier one, you get only if you are rich'
 title: Kinda fast one
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
