@@ -4,8 +4,8 @@ id: '5'
 price: 'This is our top tier one, you get only if you are rich'
 title: Kinda fast one
 description: >-
-  Best service we use blockchain and shit do make this work, I really don't
-  anything else about it. All I am saying is that it will be there really quick!
+  Best service we use blockchain and shit do make this work. All I am saying is
+  that it will be there really quick!
 default_thumbnail_image: images/undraw_Environmental_study_re_q4q8.png
 default_original_image: images/plant5-lg.jpg
 featured: true
