@@ -22,7 +22,7 @@ export default class Header extends React.Component {
                                 {is_logo_light ? (
                                     <Picture {...this.props} image={_.get(site, 'data.config.logo', null)} cssClass={'nav__logo-image'} alt={'Site logo'} />
                                 ) : 
-                                    <Picture {...this.props} image={_.get(site, 'data.config.logo', null)} cssClass={'nav__logo-image'} alt={'Site logo'} />
+                                    <Picture {...this.props} image={_.get(site, 'data.config.logo_dark', null)} cssClass={'nav__logo-image'} alt={'Site logo'} />
                                 }
                             </Link>
                         </div>
