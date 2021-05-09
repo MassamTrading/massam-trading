@@ -49,7 +49,7 @@ sections:
     title: 'Massam Trading, the way you like it'
     subtitle: 'Right at your foot steps, kinda'
     image: images/promo.jpg
-    background_image: images/leaf-light-grey.svg
+    background_image: images/leaf.svg
     cta:
       title: Discover
       url: /store
