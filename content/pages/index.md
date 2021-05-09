@@ -8,7 +8,7 @@ sections:
     background_image: images/leaf.svg
     background_image_opacity: 65
     content: >
-      # **Masam real trading done right for you**
+      # **Massam real trading done right for you**
 
 
       We are the best, we make things go fast from one country to another, botch
