@@ -23,13 +23,8 @@ sections:
             - International shipping will take between 5 and 10 business days.
             - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
       - question: How do refunds and returns work?
-        answer: >-
-          It happens. Even the most beautiful of plants will disappoint
-          *someone*. Again, tell it like it is:
-
-            - All discounted items sales are final.
-            - If you’d like another version of your item, please use the return label. Instructions are printed on its back.
-            - If your item is damaged or not functioning correctly, email us at info@planty.com, and we’ll refund you + send you a new one ASAP!
+        answer: |
+          We don't fuck off
       - question: How do you handle sensitive customer information?
         answer: |+
           Something here...
