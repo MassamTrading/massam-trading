@@ -55,7 +55,7 @@ sections:
     address: '226 rue St-Joseph E, Québec, QC, Canada, G1K 3A9'
     phone: +1-202-555-0112
     email: botch@massam.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    mapUrl: 'https://goo.gl/maps/Src9FDkhutrzWrFT9'
 seo:
   title: FAQ
   description: This is the faq page
