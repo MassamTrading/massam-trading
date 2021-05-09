@@ -1,7 +1,6 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
 title: Slow Ones
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/plant3.jpg
