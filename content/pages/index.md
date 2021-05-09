@@ -23,6 +23,7 @@ sections:
       - content/pages/products/product-4c992zbp8.md
       - content/pages/products/product-o3q7956ov.md
       - content/pages/products/product-tkv6b3utj.md
+      - content/pages/products/product-rnelkcncp.md
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
