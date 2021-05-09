@@ -14,7 +14,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: product
-default_thumbnail_image: images/plant1.jpg
+default_thumbnail_image: images/undraw_Maintenance_re_59vn.png
 ---
 ## Lorem ipsum
 
