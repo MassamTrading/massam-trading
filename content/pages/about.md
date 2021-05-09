@@ -27,7 +27,7 @@ sections:
           billions of dollars in assets so we don't care about your business at
           all, we will try and ship you containers full of food but if they are
           empty it is because we ate them duh
-        image: images/team.jpg
+        image: images/incredible-goose.png
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
