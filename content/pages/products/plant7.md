@@ -3,7 +3,9 @@ layout: product
 id: '7'
 price: '18.90'
 title: Maybe going to come
-description: Fusce sed tortor id diam rhoncus accumsan.
+description: >-
+  This ones really depends on our mood that day we can get to your or not, we
+  are busy after all!
 default_thumbnail_image: images/plant7.jpg
 default_original_image: images/plant7-lg.jpg
 order: 7
