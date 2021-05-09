@@ -40,7 +40,9 @@ sections:
       - author:
           name: 'Botch #1'
           location: 'Vancouver, ca'
-        text: These guys sucj
+        text: >-
+          These guys suck so much, I asked for extra hummas, but he kept
+          harrasing me and punching me in the nuts.
       - author:
           name: 'Botch #1'
           location: 'VANCOUVER, CA'
