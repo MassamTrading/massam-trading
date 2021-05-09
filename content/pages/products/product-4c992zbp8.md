@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: lorem-ipsum
-description: lorem-ipsum
+description: This is cool
 price: lorem-ipsum
 order: 0
 featured: false
