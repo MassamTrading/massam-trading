@@ -19,8 +19,7 @@ sections:
     title: Services
     icon: false
     light_title: true
-    featured_products:
-      - content/pages/products/plant7.md
+    featured_products: []
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
