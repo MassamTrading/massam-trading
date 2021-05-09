@@ -13,11 +13,7 @@ sections:
 
       We are the best, we make things go fast from one country to another, botch
       gang style
-    actions:
-      - title: See all items
-        url: /store
-        arrow: true
-        style: primary
+    actions: []
   - type: featured_products_section
     section_id: services_section
     title: Services
