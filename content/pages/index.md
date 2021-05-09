@@ -47,8 +47,8 @@ sections:
     image: images/smart-mustard.png
     background_image: images/leaf.svg
 seo:
-  title: Planty Theme
-  description: The preview of the Planty theme
+  title: Massam
+  description: The massam global trading website
   extra:
     - name: 'og:type'
       value: website
