@@ -7,8 +7,9 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: Behold our FAQ
-    subtitle: |
+    subtitle: >
       All right, friends. Let’s do this. We cover the most asked questions duh?!
+      Let just do this, you can call us if you have more questions...
   - type: faq_section
     section_id: faq_section
     questions:
