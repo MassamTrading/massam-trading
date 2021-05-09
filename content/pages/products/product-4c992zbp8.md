@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Holy moly
-description: This is cool
+description: I don't what this service is
 price: lorem-ipsum
 order: 0
 featured: false
