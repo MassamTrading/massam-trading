@@ -53,7 +53,7 @@ sections:
     image: images/promo.jpg
     section_id: contact_section
     address: '7438 Many Ds, Vancouver, BC, Canada, G1K 3A9'
-    phone: +1-202-555-0112
+    phone: +1-778-555-0112
     email: botch@massam.com
     mapUrl: 'https://goo.gl/maps/Src9FDkhutrzWrFT9'
 seo:
