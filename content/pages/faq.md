@@ -13,7 +13,7 @@ sections:
   - type: faq_section
     section_id: faq_section
     questions:
-      - question: lorem-ipsum
+      - question: How long does shipping take?
         answer: >-
           ## Lorem ipsum
 
