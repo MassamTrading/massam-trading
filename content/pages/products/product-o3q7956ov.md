@@ -1,7 +1,9 @@
 ---
 id: lorem-ipsum
 title: lorem-ipsum
-description: lorem-ipsum
+description: >-
+  Best service we use blockchain and shit do make this work. All I am saying is
+  that it will be there really quick!
 price: lorem-ipsum
 order: 0
 featured: false
