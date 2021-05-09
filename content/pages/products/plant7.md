@@ -6,7 +6,7 @@ title: Maybe going to come
 description: >-
   This ones really depends on our mood that day we can get to your or not, we
   are busy after all!
-default_thumbnail_image: images/plant7.jpg
+default_thumbnail_image: images/undraw_Web_developer_re_h7ie.png
 default_original_image: images/plant7-lg.jpg
 order: 7
 category: content/pages/category/bigplants.md
