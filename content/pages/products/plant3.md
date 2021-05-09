@@ -2,7 +2,7 @@
 layout: product
 id: '3'
 title: Slow Ones
-default_thumbnail_image: images/plant3.jpg
+default_thumbnail_image: images/undraw_Security_on_re_e491.svg
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 0
