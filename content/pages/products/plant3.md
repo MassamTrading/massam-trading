@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant3-lg.jpg
       relativeUrl: true
-price: gsdfgsdfgd
+price: 'The slow one is actually slow, this is not our problem!'
 ---
 
 # Curabitur eu tempor
