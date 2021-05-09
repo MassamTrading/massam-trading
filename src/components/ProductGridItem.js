@@ -25,6 +25,7 @@ export default class ProductGridItem extends React.Component {
                     <article className="product__description">
                         {_.get(this.props, 'page.frontmatter.description', null)}
                     </article>
+                    <span className="product__description"> {_.get(product_page, 'frontmatter.price', null)} </span>
                     <span className="product-grid__price"> {_.get(product_page, 'frontmatter.price', null)} </span>
                 </div>
             </li>
