@@ -57,7 +57,7 @@ seo:
       value: Massam Trading
       keyName: property
     - name: 'og:description'
-      value: The preview of the Planty theme
+      value: Massam Global Trading
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
