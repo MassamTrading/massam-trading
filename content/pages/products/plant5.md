@@ -4,8 +4,8 @@ id: '5'
 price: 'This is our top tier one, you get only if you are rich'
 title: Kinda fast one
 description: >-
-  Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
-  volutpat massa dolor id purus.
+  Best service we use blockchain and shit do make this work, I really don't
+  anything else about it. All I am saying is that it will be there really quick!
 default_thumbnail_image: images/plant5.jpg
 default_original_image: images/plant5-lg.jpg
 featured: true
