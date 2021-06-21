@@ -12,7 +12,7 @@ sections:
 
 
       We are the best, we make things go fast from one country to another, botch
-      gang style
+      gang style, the master is back bitches
     actions: []
   - type: featured_products_section
     section_id: services_section
