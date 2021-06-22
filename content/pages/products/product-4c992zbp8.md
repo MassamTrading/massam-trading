@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: Some service
+title: Food Supply
 description: I don't what this service is
 price: lorem-ipsum
 order: 0
