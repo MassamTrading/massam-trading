@@ -1,7 +1,10 @@
 ---
 id: lorem-ipsum
 title: Food Supply
-description: 'From supermarkets to fast food chains, we will supply all your needs.'
+description: >-
+  From supermarkets to fast food chains, we will supply all your needs We have
+  access to all global brands, just tell us what you need, and we will get it
+  for you.
 price: lorem-ipsum
 order: 0
 featured: false
