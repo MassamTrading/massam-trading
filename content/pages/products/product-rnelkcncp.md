@@ -2,8 +2,8 @@
 id: lorem-ipsum
 title: Solar Systems
 description: >-
-  This service is still under construction. We are thinking how we can make more
-  money from you. Lets balance this out here
+  A range of solar power system, from complete installation for large facilties
+  to small off the gird instlation.
 price: lorem-ipsum
 order: 0
 featured: false
