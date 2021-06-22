@@ -7,12 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/400dpiLogo - Copy.jpg
     background_image_opacity: 50
-    content: >
-      # **Massam real trading done right for you**
+    content: |
+      # **MASSAM GENERAL TRADING**
 
-
-      We are the best, we make things go fast from one country to another, botch
-      gang style
+      We source the world for you
     actions: []
   - type: featured_products_section
     section_id: services_section
