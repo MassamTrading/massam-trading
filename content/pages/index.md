@@ -22,22 +22,6 @@ sections:
       - content/pages/products/product-o3q7956ov.md
       - content/pages/products/product-tkv6b3utj.md
       - content/pages/products/product-rnelkcncp.md
-  - type: testimonials_section
-    section_id: testimonials_section
-    title: Testimonials
-    testimonials:
-      - author:
-          name: 'Botch #1'
-          location: 'Vancouver, ca'
-        text: >-
-          These guys suck so much, I asked for extra hummas, but he kept
-          harrasing me and punching me in the nuts.
-      - author:
-          name: 'Botch #3'
-          location: 'VANCOUVER, CA'
-        text: >-
-          I am done with these guys, I asked them to make the saj shawarma for
-          like a couple years but still nothing. F them
   - type: promotion_section
     section_id: promotion_section
     title: 'Massam Trading, the way you like it'
