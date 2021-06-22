@@ -15,7 +15,7 @@ sections:
   - type: featured_products_section
     section_id: services_section
     title: Services
-    icon: true
+    icon: false
     light_title: true
     featured_products:
       - content/pages/products/product-4c992zbp8.md
