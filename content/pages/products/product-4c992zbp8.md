@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Food Supply
-description: I don't what this service is
+description: 'From supermarkets to fast food chains, we will supply all your needs.'
 price: lorem-ipsum
 order: 0
 featured: false
