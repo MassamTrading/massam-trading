@@ -2,8 +2,8 @@
 id: lorem-ipsum
 title: Surgical Equipment
 description: >-
-  This ones really depends on our mood that day we can get to your or not, we
-  are busy after all!
+  Opening a new clinic or a vet ? reach out to us and we will get the tool you
+  need to take care of your patients.
 price: lorem-ipsum
 order: 0
 featured: false
