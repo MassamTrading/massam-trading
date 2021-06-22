@@ -14,7 +14,7 @@ seo:
   type: stackbit_page_meta
 layout: product
 default_thumbnail_image: images/pink-avocado.png
-title: SDF
+title: Industrial Kitchen Machines
 ---
 ## Lorem ipsum
 
