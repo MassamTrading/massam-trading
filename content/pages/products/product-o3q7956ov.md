@@ -1,8 +1,8 @@
 ---
 id: lorem-ipsum
 description: >-
-  Best service we use blockchain and shit do make this work. All I am saying is
-  that it will be there really quick!
+  We provide all the kitchen equipment you need to get your business up and
+  running.
 price: lorem-ipsum
 order: 0
 featured: false
