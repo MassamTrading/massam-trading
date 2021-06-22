@@ -2,8 +2,8 @@
 id: lorem-ipsum
 title: Solar Systems
 description: >-
-  A range of solar power systems, from complete installation for large facilties
-  to small off the gird installation.
+  A range of solar power systems, from complete installation for large
+  facilities to small off the gird installation.
 price: lorem-ipsum
 order: 0
 featured: false
